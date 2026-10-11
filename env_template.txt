@@ -1,0 +1,4 @@
+MONGODB_URL = "...."
+MONGODB_NAME = "..."
+OLLAMA_URL="...."
+OLLAMA_MODELS="....."
